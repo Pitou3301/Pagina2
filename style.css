@@ -1,0 +1,84 @@
+
+header{
+	background-color: #f4f4f4 ;
+}
+.logo-bem{
+	text-align: left;
+	width: 30%;
+	height: 30%;
+}
+.link-item{
+	color: #ffffff;
+	font-size: 40px;
+}
+.link{
+	padding: 1em;
+    justify-content: space-around;  
+    display: flex;
+    color: #ffffff;
+}
+.meio{
+	background-image:  linear-gradient( #00084b,#000000);
+	font-family: 'Poppins', sans-serif;
+	padding-left: 15px;
+}
+.titulo-meio{
+	text-align: center;
+	color: #ffe600;
+}
+.texto-meio{
+	color: #ffffff;
+	padding-top: 15px;
+	padding-left: 15px;
+	width: 90%;
+}
+.texto-meio2{
+	color: #ffffff;
+	padding-top: 30px;
+	padding-left: 15px;
+	width: 90%;
+	padding-bottom: 30px;
+}
+.titulo-integrantes{
+	color: #ffe600;
+	text-align: center;
+
+}
+.miguel{
+	color: #ffffff;
+	padding-left: 320px;
+}
+.mariana{
+	padding-left: 320px;
+	color: #ffffff;
+	height: 25%;
+	width: 25%;
+}
+.elyziee{
+	padding-left: 320px;
+	color: #ffffff;
+	width: 25%;
+	height: 25%; 
+}
+.bruna{
+	padding-left: 320px;
+	color: #ffffff;
+	height: 25%;
+	width: 25%;
+}
+.integrantes-texto{
+	color: #ffffff;
+	text-align: center;
+	width: 90%;
+}
+.rodape{
+	background-color: #000000;
+}
+.texto-rodape{
+	text-align: center;
+	color: #ffe600;
+}
+.area-p{
+	width: 70%;
+	height: 70%;
+}
